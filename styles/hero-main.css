@@ -67,7 +67,7 @@
 .lower-content{
   display: flex;
   justify-content: flex-end;
-  margin-top: 160px;
+  margin-top: 10%;
 }
 .dots-wrapper{
   display: flex;
