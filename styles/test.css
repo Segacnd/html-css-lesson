@@ -1,0 +1,31 @@
+.test{
+    width: 100%;
+    min-height: 1024px;
+    max-height: fit-content;
+    background-color: #232323;
+}
+.test h2{
+    color: #f4f4f4;
+    margin-left: 20px;
+    font-size: 34px;
+}
+.test-wrapper{
+    padding-top: 24px;
+    width: 80%;
+    min-height: 1024px;
+    max-height: fit-content;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.test .card-wrapper{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.test .product-card{
+    width: 30%;
+}
